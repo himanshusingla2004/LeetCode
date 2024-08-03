@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/himanshusingla2004/LeetCode/tree/master/0179-largest-number) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshusingla2004/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/himanshusingla2004/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshusingla2004/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/himanshusingla2004/LeetCode/tree/master/0179-largest-number) |
 | [0952-word-subsets](https://github.com/himanshusingla2004/LeetCode/tree/master/0952-word-subsets) |
 ## Binary Search
 |  |
@@ -40,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/himanshusingla2004/LeetCode/tree/master/0179-largest-number) |
 | [0354-russian-doll-envelopes](https://github.com/himanshusingla2004/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshusingla2004/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/himanshusingla2004/LeetCode/tree/master/0179-largest-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshusingla2004/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
