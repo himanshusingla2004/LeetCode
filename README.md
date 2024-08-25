@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/himanshusingla2004/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshusingla2004/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/himanshusingla2004/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0909-stone-game](https://github.com/himanshusingla2004/LeetCode/tree/master/0909-stone-game) |
 | [0952-word-subsets](https://github.com/himanshusingla2004/LeetCode/tree/master/0952-word-subsets) |
 ## Hash Table
 |  |
@@ -32,10 +33,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/himanshusingla2004/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/himanshusingla2004/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshusingla2004/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0909-stone-game](https://github.com/himanshusingla2004/LeetCode/tree/master/0909-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/himanshusingla2004/LeetCode/tree/master/0866-rectangle-overlap) |
+| [0909-stone-game](https://github.com/himanshusingla2004/LeetCode/tree/master/0909-stone-game) |
 ## Geometry
 |  |
 | ------- |
@@ -51,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/himanshusingla2004/LeetCode/tree/master/0179-largest-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshusingla2004/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/himanshusingla2004/LeetCode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
